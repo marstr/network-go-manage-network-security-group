@@ -1,7 +1,7 @@
 package: github.com/Azure-Samples/network-go-manage-network-security-group
 import:
 - package: github.com/Azure/azure-sdk-for-go
-  version: ~11.0.0-beta
+  version: dev
   subpackages:
   - arm/network
   - arm/resources/resources
